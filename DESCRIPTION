@@ -1,0 +1,11 @@
+Package: SplitScore
+Type: Package
+Title: Metaclustering tools
+Version: 1.0
+Date: 2020-10-29
+Author: David Novak
+Maintainer: David Novak <davidnovakcz@hotmail.com>
+Description: Metaclustering algorithms for high-dimensional data
+Depends: tidyverse, cluster, diptest, progress, RColorBrewer, FlowSOM, dendextend, scales, LaplacesDemon
+License: GPL (>= 2)
+RoxygenNote: 7.1.1

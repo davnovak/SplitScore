@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+S3method(AgglomerativeClustering, SplitScore_job)
+S3method(Prune, SplitScore_job)
+S3method(PlotTree, SplitScore_job)
+S3method(PlotDensities, SplitScore_job)
